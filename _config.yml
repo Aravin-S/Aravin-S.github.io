@@ -3,7 +3,7 @@
 title: Aravin Suganthan
 description: Aravin Suganthan Dev portfolio
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "https://aravin-s.github.io/" #custom url to be used instead of GitHub repository
 email: #
 
