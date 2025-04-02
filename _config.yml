@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Aravin Suganthan
-description: Aravin Dev Portfolio
+title: Your Name
+description: subtitle | affiliations | motto
 
-baseurl:  #name of GitHub repository
-url: "https://aravin-s.github.io/" #custom url to be used instead of GitHub repository
+baseurl: /gradfolio #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
