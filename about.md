@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About Me
-
 Hey, I'm Aravin.
 
 I'm a software developer, computer engineering grad, and part-time car whisperer. By day, I wrangle backend code and cloud infrastructure. By night, I’ve been known to revive broken BMWs with nothing but determination, a socket wrench, and an unhealthy amount of YouTube tutorials.
