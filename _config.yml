@@ -5,7 +5,7 @@
 # Name of your site (displayed in the navbar)
 name: Aravin Suganthan
 
-# Your site's title (e.g., Ben's Awesome Site, The GitHub Blog, etc.), used as part of the title tag like Home | Ben's Awesome Site.
+# Your site's title 
 title: Aravin Suganthan Portfolio
 
 # Link to avatar in the navbar (/assets/images/avatar.png). Leave empty if no logo desired. Two avatars for light and dark mode.
@@ -13,11 +13,11 @@ title: Aravin Suganthan Portfolio
 lightavatar: 
 # Avatar for dark mode site
 darkavatar: 
-# A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
-tagline: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
+# A short description 
+tagline: Portfolio/Blog that documents all of my niche interests and failed hobbies.
 
-# A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
+# A longer description used for the description meta tag. 
+description: Portfolio/Blog that documents all of my niche interests and failed hobbies.
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: https://aravin-s.github.io/
@@ -43,7 +43,7 @@ permalink: /:year/:month/:day/:title/
 footer-links:
   email: 
   facebook:
-  github: https://github.com/Aravin-S
+  github: Aravin-S
   instagram: 
   linkedin: aravin-suganthan
   rss: # just type anything here for a working RSS icon
