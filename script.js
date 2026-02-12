@@ -2,13 +2,13 @@ const noResponses = [
     'Are you sure?',
     'Are you positive?',
     'Really?',
-    'Think again!',
-    'Please reconsider!',
-    'Give it another thought?',
-    'Are you certain?',
-    'Maybe?',
-    'Come on...',
-    'Pretty please?'
+    '??',
+    'are you fr?',
+    'Deadass???',
+    'Ur lying??',
+    'wdym?????',
+    'stop capping smh',
+    '😢 please?'
 ];
 
 let noClickCount = 0;
@@ -29,7 +29,7 @@ function handleYes() {
     
     // Show success message
     setTimeout(() => {
-        alert('Yay! 💕 I knew you\'d say yes!');
+        alert('Yayyyyy! ❤️ See you this Saturday!!!');
     }, 500);
 }
 
