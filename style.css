@@ -80,6 +80,26 @@ button:active {
     }
 }
 
+.gif-container {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gif-container img {
+    max-width: 100%;
+    max-height: 300px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 480px) {
+    .gif-container img {
+        max-height: 200px;
+    }
+}
+
 .heart {
     position: fixed;
     font-size: 3rem;

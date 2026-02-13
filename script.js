@@ -1,17 +1,30 @@
 const noResponses = [
-    'Are you sure?',
-    'Are you positive?',
-    'Really?',
+    'are you sure?',
+    'are you positive?',
+    'really?',
     '??',
     'are you fr?',
-    'Deadass???',
-    'Ur lying??',
+    'deadass???',
+    'ur lying??',
     'wdym?????',
     'stop capping smh',
-    '😢 please?'
+    '🥺 please?'
 ];
 
 let noClickCount = 0;
+
+// List of gif filenames in the gifs folder
+const gifs = [
+    'gifs/gif1.gif',
+    'gifs/gif2.gif',
+];
+
+// Load a random gif when page loads
+window.addEventListener('DOMContentLoaded', () => {
+    const randomIndex = Math.floor(Math.random() * gifs.length);
+    const gifElement = document.getElementById('random-gif');
+    gifElement.src = gifs[randomIndex];
+});
 
 function handleYes() {
     // Create celebration heart
@@ -29,7 +42,7 @@ function handleYes() {
     
     // Show success message
     setTimeout(() => {
-        alert('Yayyyyy! ❤️ See you this Saturday!!!');
+        alert('Yayyyyyyy! ❤️ See you on Saturday');
     }, 500);
 }
 
