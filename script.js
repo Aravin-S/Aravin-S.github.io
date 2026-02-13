@@ -17,6 +17,8 @@ let noClickCount = 0;
 const gifs = [
     'gifs/gif1.gif',
     'gifs/gif2.gif',
+    'gifs/gif3.gif',
+    'gifs/gif4.gif'
 ];
 
 // Load a random gif when page loads
